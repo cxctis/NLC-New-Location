@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Direction to NLC 50A" />
+              <option name="title_text" value="Direction to NLC 50B" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -71,6 +71,7 @@
           <option name="closed_captions" value="false" />
           <option name="settings" value="false" />
           <option name="fullScreenToggle" value="false" />
+          <option name="playbackSpeedControl" value="false" />
         </options>
       </optiongroup>
       <optiongroup name="bottombaroptions">
@@ -1554,7 +1555,7 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6JkG6YCIP9f" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6JkG6YCIP9f" displaytext="Directions to 50B" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6JkG6YCIP9f.5izBRyAFGJi" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
